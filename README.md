@@ -1,2 +1,1 @@
-# SummarizeSentel-Automated-text-summarization-and-sentimental-analysis
-Implemented an abstractive text summarization using Seq2Seq model and integrated a sentiment analysis module to categorize emotional tones. The combined model generated summaries encompassing both content and sentiment aspects of the text.
+Developed an abstractive text summarization system using a Seq2Seq model, incorporating a sentiment analysis module to classify emotional tones. The integrated model produced summaries that captured both the content and sentiment of the text.
